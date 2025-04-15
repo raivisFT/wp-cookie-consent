@@ -41,3 +41,5 @@ What is CCPA?
 CCPA is the California Consumer Privacy Act, a law granting California residents more control over their personal information held by businesses. Businesses must be transparent, offer opt-out options, and ensure data security.
 
 CCPA Compliance refers to adherence to the California Consumer Privacy Act (CCPA), a law designed to protect the privacy rights of California residents. It mandates that businesses handling the personal information of California residents provide certain rights and protections to those individuals. Compliance involves ensuring that businesses meet the CCPA’s requirements regarding data collection and processing.
+
+![logo](cookie.png)
